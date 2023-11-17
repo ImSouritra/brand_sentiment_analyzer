@@ -16,3 +16,22 @@
 <li><strong>Libraries :- </strong>Selenium, NumPy, Pandas, matplotlib, nltk, tkinter, smtplib</li>
 <li><strong>Database :- </strong>MongoDB</li>
 </ul>
+<h2>Directions to Use</h2>
+<p>Install all the packages that are mentioned in the main.py file and then run the file using python. I'm also working on converting this project into an EXE file but it will take some time. 
+1. You will see a tkinter window pop up. Enter your name, email, brand name in the boxes.
+  <br></br>
+<img src="https://www.shoppirate.com/blog/wp-content/uploads/2023/11/Search-Information-17-11-2023-16_18_18.png" />
+<br></br>
+2. After clicking the search button, the comment scraping process will start. It will take some time.
+<br></br>
+<img src="https://www.shoppirate.com/blog/wp-content/uploads/2023/11/facebook_comment_sentiment_analyzer-–-main.py-17-11-2023-16_21_24.png" />
+<br></br>
+3. You can see public sentiment about your brand in a bar chart for greater analysis
+<br></br>
+<img src="https://www.shoppirate.com/blog/wp-content/uploads/2023/11/Figure-1-17-11-2023-16_19_23.png" />
+<br></br>
+4. Another window will pop up and show the brand's base score, positive score, negative score, and overall sentiment
+<br></br>
+<img src="https://www.shoppirate.com/blog/wp-content/uploads/2023/11/Search-Information-17-11-2023-16_20_51.png" />
+<br></br>
+</p>
