@@ -4,6 +4,7 @@
   <a href="#apporach"><li>Approach</li></a>
   <a href="#process_flow_diagram"><li>Process Flow Diagram</li></a>
   <a href="#technology_used"><li>Technologies Used</li></a>
+  <a href="#direction"><li>Directions to Use</li></a>
 </ol>
 
 <h2 id="approach">Approach</h2>
